@@ -10,12 +10,12 @@
  <img src="https://github.com/TheEagerLearner/Notes_Manager/blob/master/ResourcesForReadMe/view.png" width="200"/>
 </li>
 <li>
-<h3>Update Note Activity Screens</h3>
+<h4>Update Note Activity Screens</h4>
 <img src="https://github.com/TheEagerLearner/Notes_Manager/blob/master/ResourcesForReadMe/update.png" width="200"/>
 <img src="https://github.com/TheEagerLearner/Notes_Manager/blob/master/ResourcesForReadMe/updating.png" width="200"/>
 <img src="https://github.com/TheEagerLearner/Notes_Manager/blob/master/ResourcesForReadMe/afterupdate.png" width="200"/>
 </li>
-<h3>Delete Note Activity Screens</h3>
+<h4>Delete Note Activity Screens</h4>
 <img src="https://github.com/TheEagerLearner/Notes_Manager/blob/master/ResourcesForReadMe/delete.png" width="200"/>
 <img src="https://github.com/TheEagerLearner/Notes_Manager/blob/master/ResourcesForReadMe/afterdelete.png" width="200"/>
 </li>
