@@ -22,8 +22,8 @@
 </ul>
 
 <h2>About</h2>
-<p><h4>What is a NOTE ? </h4> a brief record of points or ideas written down as an aid to memory.</p>
-<p>This app allows the user store the notes which can be later viewed, deleted and updated by the user as required</p>
+<p><h4>What is a NOTE ? </h4>--a brief record of points or ideas written down as an aid to memory.</p>
+<p><h4>This app allows the user store the notes which can be later viewed, deleted and updated by the user as required</h4></p>
 
 <h2>Dependancies used</h2>
 <table>
